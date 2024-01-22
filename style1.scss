@@ -1,0 +1,10 @@
+head {
+    title{
+        text-align:left;
+    }
+    h1{
+        @extend title;
+        color:red;
+        font-size:x-large;
+    }
+}
