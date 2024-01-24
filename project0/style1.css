@@ -1,9 +1,9 @@
-head h2, head h1 {
+.head h2, .head h1, .head h1 .special-heading {
   text-align: left;
 }
-head h1 {
+.head h1, .head h1 .special-heading {
   color: red;
-  font-size: x-large;
 }
-
-/*# sourceMappingURL=style1.css.map */
+.head h1 .special-heading {
+  font-size: x-large;
+}/*# sourceMappingURL=style1.css.map */

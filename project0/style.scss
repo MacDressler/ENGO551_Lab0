@@ -1,9 +1,0 @@
-headd {
-    h1 {
-        color:blue
-    }
-    title{
-        @extend h1;
-        text-align:left;
-    }
-}
